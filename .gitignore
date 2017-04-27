@@ -1,2 +1,4 @@
 php/vendor/
 php/composer.lock
+js/node_modules/
+js/yarn.lock
