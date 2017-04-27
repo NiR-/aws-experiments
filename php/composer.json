@@ -1,0 +1,15 @@
+{
+    "name": "nir-/aws-experiments",
+    "type": "project",
+    "require": {
+        "aws/aws-sdk-php": "~3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Albin Kerouanton",
+            "email": "albin.kerouanton@knplabs.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
